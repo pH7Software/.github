@@ -1,4 +1,4 @@
-## Build a Beautiful Dating Community TODAY 🚀
+## Build a Powerful Dating Community 🚀
 
 ### The Open Source Enterprise-Ready Dating Web App Builder
 
