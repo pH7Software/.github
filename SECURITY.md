@@ -3,12 +3,12 @@
 
 ## Supported Versions
 
-
 | Version   | Supported          |
 | --------- | ------------------ |
-| 16.2.x    | :white_check_mark: |
-| 16.0.0    | :question:         |
-| <= 15.4.x | :x:                |
+| 18.0.x    | :white_check_mark: |
+| 17.2.x    | :white_check_mark: |
+| 17.1.x    | :question:         |
+| <= 16.3.x | :x:                |
 
 
 ## Reporting a Vulnerability
